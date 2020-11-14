@@ -1,4 +1,3 @@
-
 # nerdquotes
 
 A nerd quotes's repository to have fun and learn git flows with Github!
@@ -21,6 +20,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Steve Jobs*
 
+-------
+
+> There is not place like 127.0.0.1
+
+*Unknow*
+
 ------------
 
 > Bienaventurados los pesimistas por que ellos hacen backups
@@ -32,6 +37,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
 
 *Kamisama*
+
+-------
+
+> The secret of getting ahead is getting started.
+
+*Violeta C.*
+
+--------
+
+> git reset --hard working-world-pre-covid19-tests
+
+*Científico Anónimo. - Wuhan*
 
 -------
 
@@ -65,6 +82,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> En un repositorio de **github** de cuyo contenido no quiero *clonarme* .... 
+
+*Ramón Beltrán*
+
+-------
+
 > Failure is the condiment that gives success its flavor
 
 *Truman Capote*
@@ -88,6 +111,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Lo importante no es saber... Es tener el contacto del que sabe.
+
+*anonimo*
+
+-------
+
+> This is my story. It'll go the way I want it...or I'll end it here!
+
+*Tidus, Final Fantasy X*
+
+-------
+
 > La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
 *Berto Romero*
@@ -97,7 +132,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Sólo hay 10 tipos de personas, las que saben programar y las que no.
 
 *Super Sayan Over9000*
--------------------------------------
+
+-------
 
 >Tecla a tecla, camina  y vencerás.
 *Pam Martinez*
@@ -110,8 +146,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> ¿Qué es lo mejor de la vida?
- Aplastar enemigos, verles destrozados y oir el lamento de sus mujeres.
+> ¿Qué es lo mejor de la vida? Aplastar enemigos, verles destrozados y oir el lamento de sus mujeres.
  
  *Conan el Bárbaro*
 
@@ -126,6 +161,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > No lo intentes. Hazlo o no lo hagas, pero no lo intentes
 
 *Maestro Yoda*
+
+--------
+
+> Do it now, because in a year from now you may wish you had started today.
+
+*Karen Lamb*
 
 --------
 
@@ -152,9 +193,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> A veces la ciencia es más arte que ciencia. Mucha gente no entiende eso.
+
+*Rick de Rick y Morty*
+
+-------
+
 > Path: La primera a la derecha y luego todo recto
 
 *A.V*
+
+-------
+
+> No lo intentes. Hazlo, o no lo hagas, pero no lo intentes.
+
+*Maestro Yoda*
 
 -------
 
@@ -286,17 +339,17 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > La memoria es como un orgasmo: es mucho mejor cuando no tienes que simularla.
 
-*Seymore Cray*, sobre la memoria virtual
+*Seymore Cray, sobre la memoria virtual*
 
 
-
---------------------
+-------
 
 > Hay dos tipos de personas, las que tiene almorranas, y las que la van a tener
 
 *Groucho Marx*
 
---------------------
+-------
+
 > Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.
 
 *Dean Kamen*	
@@ -318,21 +371,25 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > There is no darkness but ignorance
 
 *William Shakespeare*
+
 -------
 
 > Los grandes árboles de la naturaleza surgieron de indefensas semillas.
 
 *frasess.net*
+
 -------
+
 > - No sabía que supieras pilotar aviones. 
-- Volar sí. Aterrizar no.
+> - Volar sí. Aterrizar no.
+
 *Henry Jones e Indiana Jones*
 
 -------
+
 > You don't have to be a nerd or a programmer or a network engineer to make a difference. 
 
 *Rebecca MacKinnon	
-
 
 ------
 
@@ -342,7 +399,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
+> La capacidad de hablar no te hace inteligente. 
+
+*(Qui-Gon Jinn)*
 
 -------
 
@@ -369,7 +428,6 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 *Christofer*
 
 ------
-------
 
 >Butt Programming @ KeepCoding ! The secret of living a life
 >while KeepCoding is merely a matter of thinking thoughts of excellence.
@@ -377,6 +435,8 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 >with the kind of information that will set us Full Stack KeepCoders.
 
 *Frank Sinatring*
+
+-------
 
 > La gente dice que no se puede vivir sin amor. Yo creo que el oxígeno es más importante.
 
@@ -410,7 +470,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 > ¡¡Noo pueedees pasaaar!!
 
-*Gandalf el Gris
+*Gandalf el Gris*
 
 -------
 
@@ -428,7 +488,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 > There's no place like **127.0.0.1**
 
-_Is a slogan, on the common American English saying, There's no place like home, popularized by the 1939 movie The Wizard of Oz._
+*Is a slogan, on the common American English saying, There's no place like home, popularized by the 1939 movie The Wizard of Oz.*
 
 -------
 
@@ -440,7 +500,7 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 > El 14 de marzo es un día muy irracional, *PI*ro no pasa nada.
 
-*Carlos Jáureg
+*Carlos Jáureg*
 
 -------
 
@@ -462,9 +522,9 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
->Soy la antivida, la bestia del juicio. Soy la oscuridad al fin de todo. 
-Fin de universos, dioses, mundos... de todo. ¿Qué serás tú, soñador? 
-La Esperanza.
+> Soy la antivida, la bestia del juicio. Soy la oscuridad al fin de todo. 
+> Fin de universos, dioses, mundos... de todo. ¿Qué serás tú, soñador? 
+> La Esperanza.
 
 *"The Sandman" (1989) - Neil Gaiman*
 
@@ -520,7 +580,7 @@ La Esperanza.
 
 > El código es como un jardín, debes regarlo y mantenerlo todos los días, para que siempre este verde. Es decir debes nunca debes dejar de manter tu código si quieres que este actualizado y sin errores.
 
-*JF. Vega
+*JF. Vega*
 
 -------
 
@@ -661,14 +721,14 @@ La Esperanza.
 
 *Guillermo Diaz*
 
----------
+-------
 
 > 1969:
--what're you doing with that 2KB of RAM?
--sending people to the moon
-2017:
--what're you doing with that 1.5GB of RAM?
--running Slack
+> -what're you doing with that 2KB of RAM?
+> -sending people to the moon
+> 2017:
+> -what're you doing with that 1.5GB of RAM?
+> -running Slack
 
 *I Am Devloper*
 
@@ -1098,9 +1158,9 @@ La Esperanza.
 -------
 
 > Quisiera ser pirata
-no por el oro y la plata
-sino por ese tesoro
-¡que guardas entre las patas!
+> no por el oro y la plata
+> sino por ese tesoro
+> ¡que guardas entre las patas!
 
 *Calico Electrónico*
 
@@ -1475,6 +1535,12 @@ sino por ese tesoro
 
 -------
 
+> No se trata de levantarse, sino de tropezar… tropezar en la dirección adecuada. Ese es el verdadero camino para avanzar.
+
+*Mr. Robot*
+
+-------
+
 > Ni commit ni comat, o limpias tu habitación ya o veras lo que es un commit.
 
 *La madre de cualquier friki con la cara llena de granos*
@@ -1613,6 +1679,12 @@ sino por ese tesoro
 
 -------
 
+> Tengo la cura, pero no consigo recordar la clave de GitHub
+
+*Dios, intentando hacer un push a https://github.com/Dios/humanidad*
+
+-------
+
 > Intenté conquistar a una programadora, pero no se deJava.
 
 *Programador C#*
@@ -1705,6 +1777,12 @@ sino por ese tesoro
 
 -------
 
+>Si puedes soñarlo, puedes hacerlo. O no, tampoco te flipes.
+
+*Anónimo*
+
+-------
+
 > Historial ayer borrado, anteayer hubo pecado.
 
 *Google Chrome*
@@ -1784,6 +1862,7 @@ Segmentation fault [core dumped]
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 *A web designer*
+
 -------
 
 > *Strength* does not come from winning. Your struggles develop your *strengths*. When you go through hardships and decide not to surrender, that is *strength*.
@@ -1795,6 +1874,12 @@ Segmentation fault [core dumped]
 > "La rata simboliza lo que es obvio."
 
 *Ralph Wiggum*
+
+-------
+
+> Normalmente no rezo, pero si estás ahí, por favor, sálvame Superman.
+
+*Homer J.Simpson*
 
 -------
 
@@ -2032,6 +2117,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Apetecan Request de la Pradera
+
+*Fintro GromeCoder*
+
+-------
+
 > "Sin cambios, algo duerme dentro de nosotros y rara vez despierta. El dormidor debe despertar.""
 
 *Frank Herbert*
@@ -2212,7 +2303,7 @@ Segmentation fault [core dumped]
 -------
 
 ```bash
-A strange game. The only winning move is not to play. How about a nice game of chess?
+> A strange game. The only winning move is not to play. How about a nice game of chess?
 ```
 
 *Joshua*
@@ -2500,8 +2591,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 ---------
 
-> If you believe that there's a hell... I don't know if you're into that. But we're... we're already pretty much going there, right?
-But I'm not gonna lie down until I get there.
+> If you believe that there's a hell... I don't know if you're into that. But we're... we're already pretty much going there, right? But I'm not gonna lie down until I get there.
 
 *Walter White (Heisenberg for colleagues)*
 
@@ -2678,3 +2768,9 @@ But I'm not gonna lie down until I get there.
 > I was kind of shy as a kid. I was a pretty good student. I was a wallflower, or nerd, if you will.
 
 *Carol Burnett*
+
+---------
+
+> "No pagaré, sé demasiado sobre extorsión".   
+
+*James Gandolfini*
